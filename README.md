@@ -2,7 +2,7 @@
 
 > Cli that generates beautifull README.md file
 
-:house: [Homepage]()
+### :house: [Homepage]()
 
 ## Prerequisites
 * npm>=5.5.0
@@ -13,7 +13,7 @@
 npm install
 ```
 
-## usage
+## Usage
 ```bash
 npm run start
 ```
@@ -30,12 +30,13 @@ npm run test
 * Github: [@kefranabg]()
 
 ## :handshake: Contributing
-`Contributions, issues and feature requests are welcome!`
-`Feel free to check [issues pages]().`
+Contributions, issues and feature requests are welcome!<br>
+Feel free to check [issues pages]().
 
 
 ## Show your support
 Give a :star: if this project helped you
+> [] BECOME A PATRON
 
 ## :memo: License
 Copyright &copy; 2019 [Franck Abgrall]().

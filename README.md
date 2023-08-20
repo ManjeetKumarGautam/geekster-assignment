@@ -1,8 +1,8 @@
-# Welcome to readme-md-generator
+# Welcome to readme-md-generator :wave:
 
 > Cli that generates beautifull README.md file
 
-[Homepage]()
+:house: [Homepage]()
 
 ## Prerequisites
 * npm>=5.5.0
@@ -25,10 +25,21 @@ npm run test
 
 ## Author
 
-**Franck Abgrall**
+:bust_in_silhouette: **Franck Abgrall**
 * Twitter: [@FranckAbgrall]()
 * Github: [@kefranabg]()
 
-## Contributing
-Contributions, issues and feature requests are welcome! 
-Feel free to check [issues pages]().
+## :handshake: Contributing
+`Contributions, issues and feature requests are welcome!`
+`Feel free to check [issues pages]().`
+
+
+## Show your support
+Give a :star: if this project helped you
+
+## :memo: License
+Copyright &copy; 2019 [Franck Abgrall]().
+This project is [MIT]() licensed.
+
+---
+*This README was generated with* :heart: *by [readme-md-generator]()*
